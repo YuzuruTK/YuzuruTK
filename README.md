@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**GustavCampos/GustavCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+</div>
 
-Here are some ideas to get you started:
+<p align="left"> 
+  I started in the world of technology by studying on my own during high school, where I was introduced to basic programming and database knowledge. Since then, I have been passionate about the world of technology as a whole and love to learn more about it every day.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Currently working on desktop applications for general purpose piezoresistors.
+</p>
+
+<p align="left">
+  <a href="gustavop.campos2004@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gustavop.campos2004@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/gustavo-campos-a2573722a/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-campos-a2573722a/"/></a>
+
+  <a href="https://github.com/GustavCampos" alt="GustavCampos Github">
+  <img src="https://img.shields.io/github/followers/GustavCampos?label=follow&style=social"/></a>
+</p>
+
+## Tecnologies 🔧
+<p>
+  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+
+  <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
+
+  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+
+  <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
+
+  <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+
+  <img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white'>
+</p>
+
+
+## Github Stats 🐱
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=GustavCampos&show_icons=true&theme=tokyonight&layout=compact#gh-dark-mode-only'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=GustavCampos&layout=compact&theme=tokyonight'>
