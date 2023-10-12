@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Currently working on desktop applications for general purpose piezoresistors.
+  💼 Currently working on Neural Network models for BTM estipulation.
 </p>
 
 <p align="left">
