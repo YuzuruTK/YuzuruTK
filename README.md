@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Currently working on Neural Network models for BTM estipulation.
+  💼 Currently studying to become a Data Engineer at UOL Compass.
 </p>
 
 <p align="left">
