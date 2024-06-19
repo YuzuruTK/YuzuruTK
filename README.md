@@ -24,9 +24,8 @@
 </p>
 
 ## Tecnologies 🔧
+[![My Skills](https://skillicons.dev/icons?i=vscode,sqlite,mysql,py,php,latex,docker,linux,aws,gcp,js,html,sass&perline=6)](https://skillicons.dev)
 <p>
-  [![My Skills](https://skillicons.dev/icons?i=vscode,sqlite,mysql,py,php,latex,docker,linux,aws,gcp,js,html,sass&perline=6)](https://skillicons.dev)
-  
   <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
 
   <img src='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white'>
