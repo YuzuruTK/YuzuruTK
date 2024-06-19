@@ -42,7 +42,6 @@
 ---
 
 ## Tecnologies 🔧
-
 ### Im used to:
 [![My Skills](https://skillicons.dev/icons?i=py,docker,linux,aws,bash,git,gcp,vscode,sqlite)](https://skillicons.dev)
 
