@@ -16,7 +16,7 @@
   <a href="darkarontg@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
-  <a href="https://www.linkedin.com/in/gustavo-campos-a2573722a/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-buron-706459236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/YuzuruTK" target="_blank">
@@ -69,4 +69,7 @@ I began my programming journey at a Federal Technical High School, where I had m
 ![Gustav Campos Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuzuruTK&custom_title=Gabriel%20Buron%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=YuzuruTK&show_icons=true&theme=tokyonight&layout=compact#gh-dark-mode-only'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuzuruTK&layout=compact&theme=tokyonight'>
+
+<div>
+<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuzuruTK&layout=compact&theme=tokyonight'>
+</div>
