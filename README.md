@@ -35,7 +35,7 @@ Currently, I am studying Computer Science at UNIJUI, and with each passing day, 
 </p>
 
 <p align="left">
-  💼 Currently studying to become a Data Engineer at UOL Compass.
+  💼 Currently studying Go for backend more focusing on API
 </p>
 
 ---
