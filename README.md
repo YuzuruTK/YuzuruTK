@@ -45,9 +45,9 @@ Currently, I am studying Computer Science at UNIJUI, and with each passing day, 
 ## Im used to:
 
 ### Languages: 
-| Python3 | Dart | Java |
-| ------- | ---- | ---- |
-| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) |
+| Python3 | Dart | Java | GoLang |
+| ------- | ---- | ---- | ------ |
+| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=golang)](https://skillicons.dev) |
 
 ### Frameworks:
 
