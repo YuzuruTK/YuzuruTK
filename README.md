@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-buron-706459236/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-buron/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/YuzuruTK" target="_blank">
@@ -21,6 +21,12 @@
   </a>
   <a href="https://buron.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-6e40c9?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="mailto:gabriel@buron.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Email-gabriel%40buron.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5555992032426" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B55%2055%2099203--2426-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
