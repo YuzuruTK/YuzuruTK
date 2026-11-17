@@ -81,46 +81,29 @@ An AI-assisted knowledge management application with a REST API and web interfac
 
 ---
 
-# Tecnologies 🔧
+# Tech Stack 🔧
 
-## Im used to:
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Languages:
-| Python | TypeScript | JavaScript | Go | Java | Dart | SQL |
-| ------- | ---------- | ---------- | -- | ---- | ---- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=golang)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) |
+### Frameworks & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 
-### Frameworks & Runtime:
-| Node.js | React | Hono | Flask | Django | Flutter |
-| ------- | ----- | ---- | ----- | ------ | ------- |
-| [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-title.png" height="48"> | [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) |
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare%20D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
-### Databases:
-| PostgreSQL | DuckDB | SQLite | Cloudflare D1 |
-| ---------- | ------ | ------ | ------------- |
-| [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"> | [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) | <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"> |
-
-### Cloud & Infrastructure:
-| AWS | Cloudflare | Docker |
-| --- | ---------- | ------ |
-| [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) |
-
-## I know also:
-
-### Python Libraries & Data:
-| Pandas | PySpark | Matplotlib |
-| ------ | ------- | ---------- |
-| <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> | <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"> | <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> |
-
-### Tools:
-| GitHub | Git | VSCode | DBeaver | Overleaf |
-| ------ | --- | ------ | ------- | -------- |
-| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) | <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"> | <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"> |
-
-### Operational Systems:
-| Windows | Fedora | Debian |
-| ------- | ------ | ------ |
-| [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=fedora)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=debian)](https://skillicons.dev) |
+### Cloud & Tools
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
